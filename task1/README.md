@@ -1,1 +1,23 @@
+# Сортировки.
 
+## 1.Сортировка выбором
+<img width="1412" height="369" alt="image" src="https://github.com/user-attachments/assets/507dabfe-d19b-47c9-9a5d-558a8f0c8648" />
+
+## 2.Сортировка вставкой
+<img width="1398" height="431" alt="image" src="https://github.com/user-attachments/assets/5135c3f8-fb08-4abf-9292-d7c5fd7747ca" />
+
+## 3.Сортировка пузырьком
+<img width="1406" height="436" alt="image" src="https://github.com/user-attachments/assets/c824090b-bf77-4405-b06e-10d28681594d" />
+
+## 4.Сортировка пузырьком 2.0
+<img width="1416" height="587" alt="image" src="https://github.com/user-attachments/assets/0e07e660-4288-46cb-a357-6d0b1e74e1da" />
+
+## 5.Сортировка слиянием
+<img width="1407" height="406" alt="image" src="https://github.com/user-attachments/assets/933061d6-0974-409b-8c60-1653f6ac9584" />
+
+## 6.Быстрая сортировка
+
+## 7.Сортировка подсчетом
+
+
+## 8.Сортировка точек
