@@ -16,8 +16,10 @@
 <img width="1407" height="406" alt="image" src="https://github.com/user-attachments/assets/933061d6-0974-409b-8c60-1653f6ac9584" />
 
 ## 6.Быстрая сортировка
+<img width="1426" height="410" alt="image" src="https://github.com/user-attachments/assets/ea503a18-77b7-44c4-a2fa-ccd66380021b" />
 
 ## 7.Сортировка подсчетом
-
+<img width="1405" height="544" alt="image" src="https://github.com/user-attachments/assets/e0c71ae0-0981-497b-be08-86480c09bf34" />
 
 ## 8.Сортировка точек
+<img width="1404" height="542" alt="image" src="https://github.com/user-attachments/assets/7d9fe3cd-eaf4-4915-aad1-a4091b32e946" />
