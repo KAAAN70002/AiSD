@@ -6,7 +6,7 @@
 
 ## 2.Сортировка вставкой
 <img width="1398" height="431" alt="image" src="https://github.com/user-attachments/assets/5135c3f8-fb08-4abf-9292-d7c5fd7747ca" />.
-[Решение](https://github.com/KAAAN70002/AiSD/blob/main/main2.cpp)
+[Решение](https://github.com/KAAAN70002/AiSD/blob/main/task1/main2.cpp)
 ## 3.Сортировка пузырьком
 <img width="1406" height="436" alt="image" src="https://github.com/user-attachments/assets/c824090b-bf77-4405-b06e-10d28681594d" />.
 [Решение](https://github.com/KAAAN70002/AiSD/blob/main/main3.cpp)
