@@ -2,7 +2,7 @@
 
 ## 1.Сортировка выбором
 <img width="1412" height="369" alt="image" src="https://github.com/user-attachments/assets/507dabfe-d19b-47c9-9a5d-558a8f0c8648" />.
-[Решение](https://github.com/KAAAN70002/AiSD/blob/main/main1.cpp)
+[Решение](https://github.com/KAAAN70002/AiSD/blob/main/task1/main1.cpp)
 
 ## 2.Сортировка вставкой
 <img width="1398" height="431" alt="image" src="https://github.com/user-attachments/assets/5135c3f8-fb08-4abf-9292-d7c5fd7747ca" />.
