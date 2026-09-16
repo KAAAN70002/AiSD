@@ -9,19 +9,19 @@
 [Решение](https://github.com/KAAAN70002/AiSD/blob/main/task1/main2.cpp)
 ## 3.Сортировка пузырьком
 <img width="1406" height="436" alt="image" src="https://github.com/user-attachments/assets/c824090b-bf77-4405-b06e-10d28681594d" />.
-[Решение](https://github.com/KAAAN70002/AiSD/blob/main/main3.cpp)
+[Решение](https://github.com/KAAAN70002/AiSD/blob/main/task1/main3.cpp)
 ## 4.Сортировка пузырьком 2.0
 <img width="1416" height="587" alt="image" src="https://github.com/user-attachments/assets/0e07e660-4288-46cb-a357-6d0b1e74e1da" />.
-[Решение](https://github.com/KAAAN70002/AiSD/blob/main/main4.cpp)
+[Решение](https://github.com/KAAAN70002/AiSD/blob/main/task1/main4.cpp)
 ## 5.Сортировка слиянием
 <img width="1407" height="406" alt="image" src="https://github.com/user-attachments/assets/933061d6-0974-409b-8c60-1653f6ac9584" />.
-[Решение](https://github.com/KAAAN70002/AiSD/blob/main/сортировка%20слиянием.py)
+[Решение](https://github.com/KAAAN70002/AiSD/blob/main/task1/сортировка%20слиянием.py)
 ## 6.Быстрая сортировка
 <img width="1426" height="410" alt="image" src="https://github.com/user-attachments/assets/ea503a18-77b7-44c4-a2fa-ccd66380021b" />.
-[Решение](https://github.com/KAAAN70002/AiSD/blob/main/быстрая%20сортировка%20.py)
+[Решение](https://github.com/KAAAN70002/AiSD/blob/main/task1/быстрая%20сортировка%20.py)
 ## 7.Сортировка подсчетом
 <img width="1405" height="544" alt="image" src="https://github.com/user-attachments/assets/e0c71ae0-0981-497b-be08-86480c09bf34" />.
-[Решение](https://github.com/KAAAN70002/AiSD/blob/main/main7.cpp)
+[Решение](https://github.com/KAAAN70002/AiSD/blob/main/task1/main7.cpp)
 ## 8.Сортировка точек
 <img width="1404" height="542" alt="image" src="https://github.com/user-attachments/assets/7d9fe3cd-eaf4-4915-aad1-a4091b32e946" />.
-[Решение](https://github.com/KAAAN70002/AiSD/blob/main/сортировка%20точек.py)
+[Решение](https://github.com/KAAAN70002/AiSD/blob/main/task1/сортировка%20точек.py)
