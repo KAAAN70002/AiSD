@@ -5,7 +5,7 @@
 [Решение](https://github.com/KAAAN70002/AiSD/blob/main/Bin/binary%202.py)
 
 3. <img width="1506" height="441" alt="image" src="https://github.com/user-attachments/assets/639da518-9659-44a5-bf09-4513f9d372a5" />
-[Решение]
+[Решение](https://github.com/KAAAN70002/AiSD/blob/main/Bin/binary3.py)
 
 4. <img width="1497" height="446" alt="image" src="https://github.com/user-attachments/assets/b963c260-ce6c-448c-a794-887668b23910" />
 [Решение]
