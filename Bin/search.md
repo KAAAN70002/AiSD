@@ -8,7 +8,7 @@
 [Решение](https://github.com/KAAAN70002/AiSD/blob/main/Bin/binary3.py)
 
 4. <img width="1497" height="446" alt="image" src="https://github.com/user-attachments/assets/b963c260-ce6c-448c-a794-887668b23910" />
-[Решение]
+[Решение](https://github.com/KAAAN70002/AiSD/blob/main/Bin/binary%204.py)
 
 5. <img width="1518" height="368" alt="image" src="https://github.com/user-attachments/assets/77bf58ea-feb2-43b5-8bec-5a4eef53bb4e" />
 [Решение]
